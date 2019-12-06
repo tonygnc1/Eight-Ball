@@ -3,6 +3,7 @@ input {
     height: 30px;
     font-size: 1em;
     border: 1px solid black;
+    margin-bottom: 10px;
 }
 
 text {
