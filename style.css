@@ -1,0 +1,21 @@
+input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+    border: 1px solid black;
+}
+
+text {
+    font-size: 3em;
+}
+
+.message {
+font-size: 1.5em;
+}
+
+button {
+    width: 125px;
+    height: 34px;
+    font-size: 1em;
+    border: 1px solid black;
+}
